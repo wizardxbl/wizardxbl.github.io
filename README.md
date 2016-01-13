@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # wizardxbl.github.io
 DawnRay.Yang‘s CSDN Blog
 =======
@@ -80,4 +79,3 @@ The documentation website at <http://jekyllbootstrap.com> is maintained at https
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
->>>>>>> 3a34785f3a9a4077b2c74dc8ae7dc89ce1092110
