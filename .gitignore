@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Object files
 *.o
 *.ko
@@ -30,3 +31,15 @@
 
 # Debug files
 *.dSYM/
+=======
+_site/*
+_theme_packages/*
+
+Thumbs.db
+.DS_Store
+
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+>>>>>>> 3a34785f3a9a4077b2c74dc8ae7dc89ce1092110
